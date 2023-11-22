@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/frontend_gp/frontend_gp.iml" filepath="$PROJECT_DIR$/frontend_gp/frontend_gp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generic_portfolio.iml" filepath="$PROJECT_DIR$/generic_portfolio.iml" />
+    </modules>
+  </component>
+</project>
