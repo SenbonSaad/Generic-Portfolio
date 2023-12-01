@@ -25,7 +25,7 @@ export default function LoginComponent() {
                     iconRender={(visible) => (visible ? <EyeTwoTone /> : <EyeInvisibleOutlined />)}
                 />
                 <br/>
-                <Button type="primary" block> Login</Button>
+                <Button type="primary" block> Login Now</Button>
 
                 <div className='group_line'>
                     <div className="line"></div>or<div className="line"></div>
